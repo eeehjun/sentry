@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 set -eE
 
 # Pre-pre-flight? 🤷
